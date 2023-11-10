@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charry Lee (Chen Li)</h1>
-<h3 align="center">A computer science lover from China 🇨🇳</h3>
+<h3 align="center">A computer science lover and software engineer lived in SF 🇺🇸</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charrylee0426" alt="charrylee0426" /></a> </p>
 
